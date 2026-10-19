@@ -1,0 +1,23 @@
+{
+  "id": "basalt-point-tracker",
+  "title": "Spell Point Tracker",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Basalt-Dev",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Basalt-Apps/basalt-point-tracker",
+  "flags": {
+    "canUpload": true
+  },
+  "description": "",
+  "esmodules": [
+    "scripts/dist/main.js"
+  ]
+}

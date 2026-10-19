@@ -1,0 +1,17 @@
+{
+  "name": "basalt-point-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "fvtt-types": "13.346.0-beta.20251209192131",
+    "typescript": "^5.9.3"
+  }
+}
