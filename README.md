@@ -1,0 +1,1 @@
+You have to like uhhh run the compile script before using
